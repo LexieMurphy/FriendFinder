@@ -45,6 +45,9 @@ function apiRoutes(app) {
 
         friendsData.push(newFriend);
 
+        console.log(friendsData)
+        console.log(newFriend)
+
     });
 }
 
